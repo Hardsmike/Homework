@@ -1,0 +1,27 @@
+@media screen and (min-width: 0px) and (max-width: 900px) {
+    header {
+        height: 150px;
+    }
+
+    .tilo {
+        flex-direction: column;
+        width: 100%;
+    }
+
+    .box1 {
+        width: 100%;
+        margin-bottom: 10px;
+        /*justify-content: space-around;*/
+        /*flex-wrap: nowrap;*/
+        align-content: space-around;
+    }
+
+    .boxes {
+        width: 26%;
+        height: 30%;
+    }
+
+    .box2 {
+        width: 100%;
+    }
+}
